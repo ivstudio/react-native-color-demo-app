@@ -11,8 +11,8 @@ import {
     AsyncStorage
 } from 'react-native';
 
-import ColorButton from './colorButton';
-import ColorForm   from './colorForm';
+import ColorButton from './ColorButton';
+import ColorForm   from './ColorForm';
 
 
 export default class ColorList extends Component<{}> {
